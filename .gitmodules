@@ -1,0 +1,9 @@
+[submodule "Turbin3-Pre-requisite-rs"]
+	path = Turbin3-Pre-requisite-rs
+	url = https://github.com/ozoneRatchapon/Turbin3-Greenmove-rs
+[submodule "Turbin3-Pre-requisite-ts"]
+	path = Turbin3-Pre-requisite-ts
+	url = https://github.com/ozoneRatchapon/Turbin3-Greenmove-ts
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/ozoneRatchapon/solana-starter
