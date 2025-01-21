@@ -7,3 +7,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/ozoneRatchapon/solana-starter
+[submodule "vault"]
+	path = vault
+	url = https://github.com/ozoneRatchapon/vault
