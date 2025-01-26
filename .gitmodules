@@ -10,3 +10,6 @@
 [submodule "vault"]
 	path = vault
 	url = https://github.com/ozoneRatchapon/vault
+[submodule "greenmove-capstone-project"]
+	path = greenmove-capstone-project
+	url = https://github.com/ozoneRatchapon/Greenmove
