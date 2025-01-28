@@ -13,3 +13,6 @@
 [submodule "greenmove-capstone-project"]
 	path = greenmove-capstone-project
 	url = https://github.com/ozoneRatchapon/Greenmove
+[submodule "marketplace"]
+	path = marketplace
+	url = https://github.com/ozoneRatchapon/marketplace
