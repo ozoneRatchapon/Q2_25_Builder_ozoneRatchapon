@@ -16,3 +16,6 @@
 [submodule "marketplace"]
 	path = marketplace
 	url = https://github.com/ozoneRatchapon/marketplace
+[submodule "staking"]
+	path = staking
+	url = https://github.com/ozoneRatchapon/staking.git
