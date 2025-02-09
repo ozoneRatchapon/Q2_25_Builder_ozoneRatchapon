@@ -22,3 +22,6 @@
 [submodule "amm"]
 	path = amm
 	url = https://github.com/ozoneRatchapon/amm.git
+[submodule "dice"]
+	path = dice
+	url = https://github.com/ozoneRatchapon/dice.git
