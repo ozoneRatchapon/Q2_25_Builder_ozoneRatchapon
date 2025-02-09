@@ -19,3 +19,6 @@
 [submodule "staking"]
 	path = staking
 	url = https://github.com/ozoneRatchapon/staking.git
+[submodule "amm"]
+	path = amm
+	url = https://github.com/ozoneRatchapon/amm.git
