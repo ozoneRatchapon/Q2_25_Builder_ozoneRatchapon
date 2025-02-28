@@ -22,3 +22,6 @@
 [submodule "dice"]
 	path = dice
 	url = https://github.com/ozoneRatchapon/dice.git
+[submodule "greenmove-capstone-project"]
+	path = greenmove-capstone-project
+	url = https://github.com/ozoneRatchapon/greenmove.git
