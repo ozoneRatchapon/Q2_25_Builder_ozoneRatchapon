@@ -25,3 +25,6 @@
 [submodule "anchor-vault"]
 	path = anchor-vault
 	url = https://github.com/ozoneRatchapon/vault
+[submodule "anchor-escrow"]
+	path = anchor-escrow
+	url = https://github.com/ozoneRatchapon/anchor-escrow
