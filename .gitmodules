@@ -7,9 +7,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/ozoneRatchapon/solana-starter
-[submodule "vault"]
-	path = vault
-	url = https://github.com/ozoneRatchapon/vault
 [submodule "marketplace"]
 	path = marketplace
 	url = https://github.com/ozoneRatchapon/marketplace
@@ -25,3 +22,6 @@
 [submodule "greenmove-capstone-project"]
 	path = greenmove-capstone-project
 	url = https://github.com/ozoneRatchapon/greenmove.git
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = https://github.com/ozoneRatchapon/vault
