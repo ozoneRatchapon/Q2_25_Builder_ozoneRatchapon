@@ -1,78 +1,79 @@
-# Project Overview: A Journey Through the Turbine Builder Cohort
+# Project Overview: My Awesome Journey Through the Turbine Builder Cohort! 🚀
 
-This project represents my learning journey through the Turbine Builder Cohort, showcasing the skills and knowledge I've acquired. It's composed of several submodules, each focusing on different aspects of blockchain and Solana development. Below is an overview of each submodule, highlighting their purpose and connection to the Turbine Builder Cohort curriculum.
+This project is a showcase of my learning journey through the Turbine Builder Cohort! 🎉 It highlights the skills and knowledge I've picked up along the way. It's made up of several submodules, each diving into different parts of blockchain and Solana development. Check out the overview below to see how each submodule connects to the Turbine Builder Cohort curriculum. 👇
 
 ## Submodules
 
-### [Turbin3-Pre-requisite-rs](https://github.com/ozoneRatchapon/Turbin3-Pre-requisite-rs)
-This submodule contains a Rust implementation demonstrating core Solana functionalities. It showcases my understanding of:
-- Interacting with the Solana blockchain using Rust.
-- Keypair generation and management.
-- Airdropping and transferring SOL tokens.
-- Enrolling in a dApp.
-- This was part of the initial learning phase, focusing on core Solana functionalities.
-
 ### [Turbin3-Pre-requisite-ts](https://github.com/ozoneRatchapon/Turbin3-Pre-requisite-ts)
-This submodule contains a TypeScript implementation mirroring the Rust version. It highlights my ability to:
-- Work with Solana using JavaScript-based tools.
-- Implement similar functionalities across different languages, showcasing versatility.
-- Understand the trade-offs between Rust and TypeScript in Solana development.
+This submodule is all about TypeScript and core Solana stuff! 💻 It shows I get how to:
+- Use JavaScript tools to work with Solana.
+- Handle keypairs like a pro.
+- Airdrop and transfer those sweet SOL tokens. 💸
+- Enroll in a dApp.
+- This was my starting point, getting comfy with the basics of Solana using TypeScript.
+
+### [Turbin3-Pre-requisite-rs](https://github.com/ozoneRatchapon/Turbin3-Pre-requisite-rs)
+Here's the Rust version, doing the same things as the TypeScript one! 🦀 It proves I can:
+- Do the same things in different languages, showing I'm flexible.
+- Understand when to use Rust or TypeScript for Solana projects. 🤔
+- Solidify my understanding of core Solana concepts by implementing them in Rust after learning them in TypeScript.
 
 ### [solana-starter](https://github.com/ozoneRatchapon/solana-starter)
-This submodule provides a starter template for Solana projects. It's designed to accelerate the development process by providing a pre-configured environment with essential tools and dependencies. This demonstrates my understanding of:
-- Project setup and scaffolding in Solana development.
-- Best practices for organizing and structuring Solana projects.
-- How to create reusable templates for efficient development.
+This submodule documents my journey through building Web3 applications on Solana. It showcases various implementations from basic wallet interactions to more complex operations with SPL tokens and NFTs. It demonstrates my understanding of:
+- Creating SPL Tokens with customizable parameters, minting, and transferring them.
+- Adding metadata to tokens, enhancing their on-chain representation.
+- Implementing the full NFT minting process, including image upload to Irys (formerly Bundlr) and metadata creation following Metaplex standards.
+- Interacting with the WBA Vault Program, including setting up vault storage and managing SOL, SPL tokens, and NFTs.
 
 ### [anchor-vault](https://github.com/ozoneRatchapon/anchor-vault)
-This submodule contains the Solana Vault Program, built using the Anchor framework. It allows users to:
-- Initialize a vault.
-- Deposit funds.
-- Withdraw funds.
+This is the Solana Vault Program, built with Anchor! ⚓ It lets users:
+- Start a vault.
+- Put in funds.
+- Take out funds.
 - Close the vault.
-This showcases my ability to:
-- Develop secure and reliable smart contracts using Anchor.
-- Implement core vault functionalities on the Solana blockchain.
+This proves I can:
+- Build secure smart contracts using Anchor.
+- Implement key vault features on Solana.
 
 ### [anchor-escrow](https://github.com/ozoneRatchapon/anchor-escrow)
-This submodule contains the Solana Escrow Program, built using the Anchor framework. It allows users to:
+This submodule is the Solana Escrow Program, also using Anchor! 🤝 It lets users:
 - Create and manage escrow transactions.
 - Make, take, and refund escrows.
-This showcases my ability to:
-- Develop secure and reliable smart contracts using Anchor.
-- Implement complex business logic on the Solana blockchain.
-- Understand and apply escrow principles in a decentralized environment.
+This shows I can:
+- Build secure smart contracts with Anchor.
+- Implement complex logic on the Solana blockchain.
+- Use escrow principles in a decentralized world.
 
 ### [amm](https://github.com/ozoneRatchapon/amm)
-This submodule implements an Automated Market Maker (AMM) on Solana, demonstrating my understanding of:
+This submodule implements an Automated Market Maker (AMM) on Solana! 💱 It demonstrates my understanding of:
 - Decentralized exchange mechanisms.
 - Liquidity pool management.
 - Token swapping logic.
 
 ### [marketplace](https://github.com/ozoneRatchapon/marketplace)
-This submodule provides a basic framework for creating a decentralized marketplace on Solana, showcasing my ability to:
+This submodule provides a basic framework for creating a decentralized marketplace on Solana! 🛒 It showcases my ability to:
 - Handle listing and purchasing of assets.
 - Implement secure payment processing.
 - Manage user interactions in a decentralized setting.
 
 ### [staking](https://github.com/ozoneRatchapon/staking)
-This submodule implements a staking program on Solana, demonstrating my knowledge of:
+This submodule implements a staking program on Solana! 🥩 It demonstrates my knowledge of:
 - Staking mechanisms and rewards distribution.
 - Secure handling of staked assets.
 - Implementing time-based logic in smart contracts.
 
 ### [dice](https://github.com/ozoneRatchapon/dice)
-This submodule implements a simple dice game on Solana, showcasing my ability to:
+This submodule implements a simple dice game on Solana! 🎲 It showcases my ability to:
 - Generate verifiable randomness on-chain.
 - Manage game logic and payouts.
 - Create engaging decentralized applications.
 
 ### [greenmove-capstone-project](https://github.com/ozoneRatchapon/greenmove)
-This submodule contains the capstone project. It integrates various components and demonstrates the overall functionality of the project. This represents the culmination of my learning in the Turbine Builder Cohort, showcasing my ability to:
-- Apply the acquired knowledge to build a complete and functional application.
-- Integrate different components and technologies into a cohesive system.
-- Solve real-world problems using blockchain technology.
+This submodule is the grand finale! 🎓 It puts everything together and shows how the whole project works. It proves I can:
+- Use what I've learned to build a real application.
+- Combine different parts into one working system.
+- Solve real problems using blockchain tech.
 
 ---
 
-For more details about each submodule, refer to their respective repositories. This project serves as a testament to my growth and understanding of Solana development throughout the Turbine Builder Cohort.
+For all the juicy details, check out each submodule's repository! 🧐 This project is proof of how much I've grown and learned about Solana development during the Turbine Builder Cohort. 🌱
