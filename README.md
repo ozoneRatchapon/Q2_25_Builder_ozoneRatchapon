@@ -68,6 +68,13 @@ This submodule implements a simple dice game on Solana! 🎲 It showcases my abi
 - Manage game logic and payouts.
 - Create engaging decentralized applications.
 
+### [anchor-vote](https://github.com/ozoneRatchapon/anchor-vote)
+This submodule implements a voting program on Solana, built with Anchor! 🗳️ It demonstrates my understanding of:
+- On-chain voting mechanisms.
+- Governance and decision-making processes.
+- Secure handling of votes and tallies.
+- Voting capability with quadratic funding mechanics.
+
 ### [greenmove-capstone-project](https://github.com/ozoneRatchapon/greenmove)
 This submodule is the grand finale! 🎓 It puts everything together and shows how the whole project works. It proves I can:
 - Use what I've learned to build a real application.
