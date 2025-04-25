@@ -19,9 +19,6 @@
 [submodule "dice"]
 	path = dice
 	url = https://github.com/ozoneRatchapon/dice.git
-[submodule "greenmove-capstone-project"]
-	path = greenmove-capstone-project
-	url = https://github.com/ozoneRatchapon/greenmove.git
 [submodule "anchor-vault"]
 	path = anchor-vault
 	url = https://github.com/ozoneRatchapon/vault
@@ -31,3 +28,6 @@
 [submodule "anchor-vote"]
 	path = anchor-vote
 	url = https://github.com/ozoneRatchapon/anchor-vote
+[submodule "water-conservation-capstone-project"]
+	path = water-conservation-capstone-project
+	url = https://github.com/ozoneRatchapon/water-conservation

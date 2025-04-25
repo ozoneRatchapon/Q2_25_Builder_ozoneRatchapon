@@ -75,11 +75,17 @@ This submodule implements a voting program on Solana, built with Anchor! 🗳️
 - Secure handling of votes and tallies.
 - Voting capability with quadratic funding mechanics.
 
-### [greenmove-capstone-project](https://github.com/ozoneRatchapon/greenmove)
+### [water-conservation-capstone-project](https://github.com/ozoneRatchapon/water-conservation)
 This submodule is the grand finale! 🎓 It puts everything together and shows how the whole project works. It proves I can:
 - Use what I've learned to build a real application.
 - Combine different parts into one working system.
 - Solve real problems using blockchain tech.
+    - Greenmove is a Solana-based protocol designed to incentivize water conservation by rewarding users with points that can be redeemed at local businesses.
+    - The protocol leverages DePIN (Decentralized Physical Infrastructure Networks) to obtain accurate water usage data, creating a transparent and verifiable system for tracking and rewarding conservation efforts.
+    * Promotes environmental sustainability by encouraging water conservation.
+    * Supports local economies by driving customers to participating businesses.
+    * Provides tangible benefits to users for their eco-conscious behavior.
+    * Creates a community-driven approach to resource management.
 
 ---
 
